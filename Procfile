@@ -1,1 +1,1 @@
-echo web: python main.py > Procfile
+web: gunicorn apl_name : app --log-file -
