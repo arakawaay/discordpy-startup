@@ -1,1 +1,1 @@
-<process type>: <command>
+echo web: python main.py > Procfile
