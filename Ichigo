@@ -3,5 +3,5 @@ git init
 git add README.md 
 git commit -m "first commit" 
 git remote add origin https://github.com/arakawaay/discordpy-startup.git
- git push -u元マスター
+ git push -u
                 
