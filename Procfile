@@ -1,1 +1,1 @@
-web: gunicorn apl_name : app
+<process type>: <command>
