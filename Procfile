@@ -1,1 +1,1 @@
-discordbot:python discordbot.py
+web: gunicorn apl_name : app
